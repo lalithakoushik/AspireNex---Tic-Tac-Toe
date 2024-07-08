@@ -3,19 +3,7 @@ This is a simple game of tic-tac-toe developed in Python. It allows two players 
 
 The host starts as "X" and goes first, and the client is "O." The players choose the square they would like to use with coordinates; both "A1" and "1A" would be accepted, for example. The game proceeds, with the players taking turns, until one wins or the game is a draw. The host, then the client, is asked whether they'd like a rematch. If both agree, the game starts anew.
 
-Example of a turn:
 
-       Your turn!
-
-       A   B   C
-
-   1     ║   ║ X
-      ═══╬═══╬═══
-   2     ║ O ║
-      ═══╬═══╬═══
-   3     ║   ║
-
-Enter coordinate: 
 I programmed this primarily to learn the basics of networking and how to send and receive data between two users. I also wanted to continue polishing my skills in the Python language.
 
 
