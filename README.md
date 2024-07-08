@@ -31,3 +31,4 @@ Python (3.9.4) 64-bit
 Git / GitHub
 Python: Socket, Picket modules and streamlit
 
+
